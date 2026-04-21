@@ -1,3 +1,15 @@
+.navbar-brand {
+    background: #b0b8c8; /* darker gray background */
+    border-radius: 14px;
+    padding: 36px 56px;
+    display: inline-flex;
+    align-items: center;
+    gap: 22px;
+    box-shadow: 0 2px 16px rgba(0,0,0,0.12);
+}
+
+
+
 .brand {
     display: flex;
     align-items: baseline;
